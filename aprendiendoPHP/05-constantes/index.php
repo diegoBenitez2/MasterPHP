@@ -2,7 +2,7 @@
 //CONSTANTES
 define('nombre', 'Diego Benitez');
 define('web','diegoweb.com');
-//se mesran sin el $
+//se definen  sin el $
 echo nombre;
 //Constantes predefinidas
 
