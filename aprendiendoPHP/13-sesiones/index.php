@@ -8,7 +8,7 @@ que cierre sesion o cierre el navegador -->
   //VARIABLE LOCAL
   $variable_normal= "soy una cadena";
   //VARIABLE DE SESION
-  $_SESSION['variable_persistente'] = "HOLA SOY SESION ACTIVA";
+  $_SESSION['variable_persistente'] = "HOLA SOY SESION";
   echo '<h3>'.$variable_normal.'</h3>';
   echo '<h3>'.$_SESSION['variable_persistente'].'</h3>';
 ?>
